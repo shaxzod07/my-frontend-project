@@ -59,6 +59,10 @@
     line-height: 100%;
     color: rgba(0, 0, 0, 1);
 
+    text-decoration: none;
+    display: inline-block;
+
+
 
 
 
@@ -624,6 +628,8 @@
     line-height: 24px;
     color: black;
     margin: auto 0;
+    text-decoration: none;
+    display: inline-block;
 }
 .footer-container2-title1{
     /*width: 184px;*/
