@@ -763,6 +763,15 @@
         width: 45px;
         height: 45px;
     }
+    .header-class-menu{
+        gap: 20px;
+    }
+    .header-class-text{
+        letter-spacing: 0;
+    }
+    .header-class-name{
+        width: 180px;
+    }
 }
 @media (max-width: 460px) {
 .footer-container3{
@@ -773,6 +782,19 @@
 @media (max-width: 420px) {
     .container7-img {
         grid-template-columns: repeat(1, 1fr);
+    }
+    .header-class-menu-title{
+        font-size: 11px;
+
+    }
+    .header-class-text{
+        font-size: 12px;
+    }
+    .header-class-menu{
+        gap: 15px;
+    }
+    .header-class-name{
+        width: 150px;
     }
 }
 
