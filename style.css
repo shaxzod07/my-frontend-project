@@ -753,6 +753,10 @@
     .container3-main-img{
         width: 100%;
     }
+    .container4-main{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
 @media (max-width: 510px) {
     .footer-container3{
